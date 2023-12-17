@@ -1,0 +1,2 @@
+#+TITLE: epic game created by cammy
+* your goal is to win the game and not die 
